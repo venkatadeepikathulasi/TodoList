@@ -5,6 +5,6 @@ A Todo List project in React is a simple application that allows users to create
 3. **Add Button**: A button to submit the new task.
 4. **Todo List**: A list displaying all current tasks.
 5. **Delete Functionality**: Options to remove tasks from the list.
-6. **Edit Functionality**: Edit the todos that are displaying.
+6. **Edit Functionality**: Allow users to edit existing todos. This could be implemented by turning the todo text into an editable input field when clicking an edit button.
 
 
